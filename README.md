@@ -22,7 +22,7 @@ This project was created to practice:
 - Consistent structure for service-based web content
 
 ## 📸 Screenshots
-![Screenshot](Screenshot.png)
+![Screenshot](images/Screenshot.png)
 
 ## 📂 Project Structure
 - `index.html`: The main page
