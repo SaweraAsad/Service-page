@@ -4,7 +4,7 @@ This is a simple  **Service Page** created using HTML and CSS.
 It presents a layout commonly used on business or portfolio websites to showcase various services offered.
 
 ## 🔗 Live Site
-[Click to View the Page](https://saweraasad.github.io/service-page/)  
+[Click to View the Page]( https://saweraasad.github.io/Service-page/)  
 
 ## 🚀 Features
 - Clean and minimal design
@@ -22,7 +22,7 @@ This project was created to practice:
 - Consistent structure for service-based web content
 
 ## 📸 Screenshots
-*You can add 1–3 screenshots here to show different views of the page.*
+![Screenshot](Screenshot.png)
 
 ## 📂 Project Structure
 - `index.html`: The main page
